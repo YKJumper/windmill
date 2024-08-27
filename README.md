@@ -1,0 +1,2 @@
+# windmill
+FreeCAD WindMill rotor
